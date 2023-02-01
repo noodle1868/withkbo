@@ -2,6 +2,8 @@
 
 주제 : 야구 커뮤니티 사이트
 
+- 개발 내용 : 
+
 - 개발 환경 및 라이브러리
 1. 구현 언어: corretto jdk 11, HTML, CSS3, JavaScript es5, JQuery 3.6, SQL
 3. 사용 기술 : AJAX, JSP  
